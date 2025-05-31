@@ -1,7 +1,7 @@
 # Azure-Networking-Demo
 This repository was created to demonstrate VNET in Azure 
 
-![Image](https://github.com/user-attachments/assets/30d51256-f89c-40cf-b7c0-787ea0aafef2)
+
 ![Image](https://github.com/user-attachments/assets/2219f3d3-2767-4832-a984-ec51d64c360a)
 ![Image](https://github.com/user-attachments/assets/108acb69-0429-41b0-a5e1-00dcc1b36283)
 ![Image](https://github.com/user-attachments/assets/2344254c-0171-4d07-a2c5-e524132a1df1)
@@ -17,3 +17,4 @@ This repository was created to demonstrate VNET in Azure
 ![Image](https://github.com/user-attachments/assets/888ebed3-0b89-4c85-aa25-630d15ac4bdd)
 ![Image](https://github.com/user-attachments/assets/d1366e0e-d791-4a89-a59f-33b9b1c3f7c9)
 ![Image](https://github.com/user-attachments/assets/c3188d35-55a2-4f06-86f1-d43d335ebde1)
+![Image](https://github.com/user-attachments/assets/30d51256-f89c-40cf-b7c0-787ea0aafef2)
